@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/toriccode
+toriccode.so
+toriccode.dylib
+toriccode.dll
+toriccode.a
+toriccode.lib
+toriccode-test-*
+*.exe
+*.o
+*.obj
+*.lst

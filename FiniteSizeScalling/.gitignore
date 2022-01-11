@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/fss_toriccode
+fss_toriccode.so
+fss_toriccode.dylib
+fss_toriccode.dll
+fss_toriccode.a
+fss_toriccode.lib
+fss_toriccode-test-*
+*.exe
+*.o
+*.obj
+*.lst

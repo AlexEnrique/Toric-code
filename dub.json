@@ -1,0 +1,13 @@
+{
+	"authors": [
+		"Alex Enrique"
+	],
+	"copyright": "Copyright © 2020, Alex Enrique",
+	"dependencies": {
+		"progress": "~>5.0.1"
+	},
+	"description": "Toric Code simulation to calculate the fidelity after applying the \\lambda \\sum_i S_i^x perturbation",
+	"license": "proprietary",
+	"name": "toriccode",
+	"targetPath": "bin"
+}
