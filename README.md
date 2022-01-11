@@ -5,3 +5,5 @@ It consists in the numerical simulation of [Kitaev's Toric Code](https://en.wiki
 and [Fault Tolerant Quantum Compuation](https://arxiv.org/pdf/quant-ph/9712048.pdf). 
 More specifically, the program simulates the ground state of the Toric Code in the presence of a transverse field perturbation to see a 
 topological phase transition near the Ising transition point.
+
+I implemented the simulation using the [D Programming Language](https://dlang.org/), which I really love. It was choosen because I desired a fast language with high-level functionalities.
